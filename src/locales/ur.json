@@ -1,0 +1,21 @@
+{
+  "appTitle": "برطانیہ ڈرائیونگ تھیوری",
+  "subtitle": "اپنی سرکاری DVSA تھیوری ٹیسٹ کی تیاری کریں",
+  "startMockTest": "مک ٹیسٹ شروع کریں",
+  "practiceCategories": "موضوع کے لحاظ سے مشق",
+  "questions": "{{count}} سوالات",
+  "language": "زبان",
+  "back": "واپس",
+  "mockTestPlaceholder": "مکمل مک ٹیسٹ جلد دستیاب ہوگا۔",
+  "practicePlaceholder": "موضوع کے مشق کے سوالات جلد دستیاب ہوں گے۔",
+  "categories": {
+    "roadSigns": "سڑک کے اشارے",
+    "rulesOfTheRoad": "سڑک کے قواعد",
+    "hazardPerception": "خطرے کی شناخت",
+    "motorwayRules": "موٹروے کے قواعد",
+    "vehicleSafety": "گاڑی کی حفاظت",
+    "documentsLegal": "دستاویزات اور قانون",
+    "incidentsFirstAid": "واقعات اور ابتدائی طبی امداد",
+    "environment": "ماحول دوست ڈرائیونگ"
+  }
+}

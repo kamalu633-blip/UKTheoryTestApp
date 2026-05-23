@@ -1,0 +1,21 @@
+{
+  "appTitle": "اختبار القيادة النظري في المملكة المتحدة",
+  "subtitle": "استعد لاختبار DVSA النظري الرسمي",
+  "startMockTest": "بدء الاختبار التجريبي",
+  "practiceCategories": "التدريب حسب الموضوع",
+  "questions": "{{count}} أسئلة",
+  "language": "اللغة",
+  "back": "رجوع",
+  "mockTestPlaceholder": "تجربة الاختبار التجريبي الكامل قريبًا.",
+  "practicePlaceholder": "أسئلة التدريب حسب الموضوع قريبًا.",
+  "categories": {
+    "roadSigns": "إشارات الطريق",
+    "rulesOfTheRoad": "قواعد الطريق",
+    "hazardPerception": "إدراك المخاطر",
+    "motorwayRules": "قواعد الطرق السريعة",
+    "vehicleSafety": "سلامة المركبة",
+    "documentsLegal": "المستندات والقانون",
+    "incidentsFirstAid": "الحوادث والإسعافات الأولية",
+    "environment": "القيادة البيئية"
+  }
+}

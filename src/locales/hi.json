@@ -1,0 +1,21 @@
+{
+  "appTitle": "यूके ड्राइविंग थ्योरी",
+  "subtitle": "अपनी आधिकारिक DVSA थ्योरी परीक्षा की तैयारी करें",
+  "startMockTest": "मॉक टेस्ट शुरू करें",
+  "practiceCategories": "विषय के अनुसार अभ्यास",
+  "questions": "{{count}} प्रश्न",
+  "language": "भाषा",
+  "back": "वापस",
+  "mockTestPlaceholder": "पूरा मॉक टेस्ट जल्द आ रहा है।",
+  "practicePlaceholder": "विषय अभ्यास प्रश्न जल्द आ रहे हैं।",
+  "categories": {
+    "roadSigns": "सड़क संकेत",
+    "rulesOfTheRoad": "सड़क के नियम",
+    "hazardPerception": "खतरा पहचान",
+    "motorwayRules": "मोटरवे नियम",
+    "vehicleSafety": "वाहन सुरक्षा",
+    "documentsLegal": "दस्तावेज़ और कानून",
+    "incidentsFirstAid": "घटनाएँ और प्राथमिक चिकित्सा",
+    "environment": "इको ड्राइविंग"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "appTitle": "যুক্তরাজ্য ড্রাইভিং থিওরি",
+  "subtitle": "আপনার অফিসিয়াল DVSA থিওরি পরীক্ষার জন্য প্রস্তুতি নিন",
+  "startMockTest": "মক টেস্ট শুরু করুন",
+  "practiceCategories": "বিষয় অনুযায়ী অনুশীলন",
+  "questions": "{{count}}টি প্রশ্ন",
+  "language": "ভাষা",
+  "back": "পিছনে",
+  "mockTestPlaceholder": "সম্পূর্ণ মক টেস্ট শীঘ্রই আসছে।",
+  "practicePlaceholder": "বিষয়ভিত্তিক প্রশ্ন শীঘ্রই আসছে।",
+  "categories": {
+    "roadSigns": "সড়ক চিহ্ন",
+    "rulesOfTheRoad": "সড়কের নিয়ম",
+    "hazardPerception": "বিপদ চিহ্নিতকরণ",
+    "motorwayRules": "মোটরওয়ে নিয়ম",
+    "vehicleSafety": "যানবাহন নিরাপত্তা",
+    "documentsLegal": "নথি ও আইনি",
+    "incidentsFirstAid": "ঘটনা ও প্রাথমিক চিকিৎসা",
+    "environment": "ইকো ড্রাইভিং"
+  }
+}

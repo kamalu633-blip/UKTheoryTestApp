@@ -1,0 +1,21 @@
+{
+  "appTitle": "యుకె డ్రైవింగ్ థియరీ",
+  "subtitle": "మీ అధికారిక DVSA థియరీ పరీక్షకు సిద్ధం అవ్వండి",
+  "startMockTest": "మాక్ టెస్ట్ ప్రారంభించండి",
+  "practiceCategories": "విషయం వారీగా అభ్యాసం",
+  "questions": "{{count}} ప్రశ్నలు",
+  "language": "భాష",
+  "back": "వెనక్కి",
+  "mockTestPlaceholder": "పూర్తి మాక్ టెస్ట్ త్వరలో వస్తుంది.",
+  "practicePlaceholder": "విషయ అభ్యాస ప్రశ్నలు త్వరలో వస్తాయి.",
+  "categories": {
+    "roadSigns": "రోడ్ సంకేతాలు",
+    "rulesOfTheRoad": "రోడ్ నియమాలు",
+    "hazardPerception": "ప్రమాద గ్రహణ",
+    "motorwayRules": "మోటార్వే నియమాలు",
+    "vehicleSafety": "వాహన భద్రత",
+    "documentsLegal": "పత్రాలు & చట్టం",
+    "incidentsFirstAid": "ప్రమాదాలు & ప్రథమ చికిత్స",
+    "environment": "ఇకో డ్రైవింగ్"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "appTitle": "Teoria guida UK",
+  "subtitle": "Preparati per l'esame ufficiale DVSA",
+  "startMockTest": "Avvia simulazione",
+  "practiceCategories": "Esercitati per argomento",
+  "questions": "{{count}} domande",
+  "language": "Lingua",
+  "back": "Indietro",
+  "mockTestPlaceholder": "La simulazione completa sarà disponibile a breve.",
+  "practicePlaceholder": "Le domande per argomento saranno disponibili a breve.",
+  "categories": {
+    "roadSigns": "Segnaletica stradale",
+    "rulesOfTheRoad": "Regole della strada",
+    "hazardPerception": "Percezione del rischio",
+    "motorwayRules": "Regole autostrada",
+    "vehicleSafety": "Sicurezza del veicolo",
+    "documentsLegal": "Documenti e normativa",
+    "incidentsFirstAid": "Incidenti e primo soccorso",
+    "environment": "Guida ecologica"
+  }
+}

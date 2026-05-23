@@ -1,0 +1,21 @@
+{
+  "appTitle": "UK Driving Theory",
+  "subtitle": "Prepare for your official DVSA theory test",
+  "startMockTest": "Start Mock Test",
+  "practiceCategories": "Practice by topic",
+  "questions": "{{count}} questions",
+  "language": "Language",
+  "back": "Back",
+  "mockTestPlaceholder": "Full mock test experience coming soon.",
+  "practicePlaceholder": "Category practice questions coming soon.",
+  "categories": {
+    "roadSigns": "Road Signs",
+    "rulesOfTheRoad": "Rules of the Road",
+    "hazardPerception": "Hazard Perception",
+    "motorwayRules": "Motorway Rules",
+    "vehicleSafety": "Vehicle Safety",
+    "documentsLegal": "Documents & Legal",
+    "incidentsFirstAid": "Incidents & First Aid",
+    "environment": "Eco Driving"
+  }
+}

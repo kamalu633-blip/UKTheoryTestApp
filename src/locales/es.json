@@ -1,0 +1,21 @@
+{
+  "appTitle": "Teoría de conducción UK",
+  "subtitle": "Prepárate para el examen oficial DVSA",
+  "startMockTest": "Iniciar simulacro",
+  "practiceCategories": "Practica por tema",
+  "questions": "{{count}} preguntas",
+  "language": "Idioma",
+  "back": "Atrás",
+  "mockTestPlaceholder": "La simulación completa estará disponible pronto.",
+  "practicePlaceholder": "Las preguntas por tema estarán disponibles pronto.",
+  "categories": {
+    "roadSigns": "Señales de tráfico",
+    "rulesOfTheRoad": "Normas de circulación",
+    "hazardPerception": "Percepción de riesgos",
+    "motorwayRules": "Normas de autopista",
+    "vehicleSafety": "Seguridad del vehículo",
+    "documentsLegal": "Documentos y legal",
+    "incidentsFirstAid": "Incidentes y primeros auxilios",
+    "environment": "Conducción ecológica"
+  }
+}

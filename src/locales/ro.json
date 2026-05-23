@@ -1,0 +1,21 @@
+{
+  "appTitle": "Teorie auto UK",
+  "subtitle": "Pregătește-te pentru examenul oficial DVSA",
+  "startMockTest": "Începe testul simulat",
+  "practiceCategories": "Exersează pe subiecte",
+  "questions": "{{count}} întrebări",
+  "language": "Limbă",
+  "back": "Înapoi",
+  "mockTestPlaceholder": "Simularea completă va fi disponibilă în curând.",
+  "practicePlaceholder": "Întrebările pe subiect vor fi disponibile în curând.",
+  "categories": {
+    "roadSigns": "Indicatoare rutiere",
+    "rulesOfTheRoad": "Reguli de circulație",
+    "hazardPerception": "Percepția pericolelor",
+    "motorwayRules": "Reguli autostradă",
+    "vehicleSafety": "Siguranța vehiculului",
+    "documentsLegal": "Documente și legal",
+    "incidentsFirstAid": "Incidente și prim ajutor",
+    "environment": "Condus ecologic"
+  }
+}

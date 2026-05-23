@@ -1,0 +1,21 @@
+{
+  "appTitle": "യുകെ ഡ്രൈവിംഗ് തിയറി",
+  "subtitle": "നിങ്ങളുടെ ഔദ്യോഗിക DVSA തിയറി പരീക്ഷയ്ക്ക് തയ്യാറെടുക്കുക",
+  "startMockTest": "മോക്ക് ടെസ്റ്റ് ആരംഭിക്കുക",
+  "practiceCategories": "വിഷയം അനുസരിച്ച് പരിശീലനം",
+  "questions": "{{count}} ചോദ്യങ്ങൾ",
+  "language": "ഭാഷ",
+  "back": "പിന്നോട്ട്",
+  "mockTestPlaceholder": "പൂർണ്ണ മോക്ക് ടെസ്റ്റ് ഉടൻ വരുന്നു.",
+  "practicePlaceholder": "വിഷയ അഭ്യാസ ചോദ്യങ്ങൾ ഉടൻ വരുന്നു.",
+  "categories": {
+    "roadSigns": "റോഡ് സൈൻകൾ",
+    "rulesOfTheRoad": "റോഡ് നിയമങ്ങൾ",
+    "hazardPerception": "അപകടം തിരിച്ചറിയൽ",
+    "motorwayRules": "മോട്ടർവേ നിയമങ്ങൾ",
+    "vehicleSafety": "വാഹന സുരക്ഷ",
+    "documentsLegal": "രേഖകളും നിയമവും",
+    "incidentsFirstAid": "അപകടങ്ങളും പ്രഥമശുശ്രൂഷയും",
+    "environment": "ഇക്കോ ഡ്രൈവിംഗ്"
+  }
+}

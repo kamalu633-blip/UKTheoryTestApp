@@ -1,0 +1,21 @@
+{
+  "appTitle": "Teoria jazdy UK",
+  "subtitle": "Przygotuj się do oficjalnego egzaminu DVSA",
+  "startMockTest": "Rozpocznij test próbny",
+  "practiceCategories": "Ćwicz według tematu",
+  "questions": "{{count}} pytań",
+  "language": "Język",
+  "back": "Wstecz",
+  "mockTestPlaceholder": "Pełny test próbny będzie wkrótce dostępny.",
+  "practicePlaceholder": "Pytania według tematu będą wkrótce dostępne.",
+  "categories": {
+    "roadSigns": "Znaki drogowe",
+    "rulesOfTheRoad": "Przepisy ruchu",
+    "hazardPerception": "Postrzeganie zagrożeń",
+    "motorwayRules": "Zasady autostrady",
+    "vehicleSafety": "Bezpieczeństwo pojazdu",
+    "documentsLegal": "Dokumenty i prawo",
+    "incidentsFirstAid": "Wypadki i pierwsza pomoc",
+    "environment": "Eko jazda"
+  }
+}
