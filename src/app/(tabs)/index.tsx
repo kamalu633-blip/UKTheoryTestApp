@@ -1,4 +1,4 @@
-import { Link } from 'expo-router';
+import { type Href, Link } from 'expo-router';
 import { useCallback, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import {
@@ -92,7 +92,7 @@ function CategoryCard({ categoryKey }: { categoryKey: CategoryKey }) {
   const count = CATEGORY_COUNTS[categoryKey];
 
   return (
-    <Link href={`/practice/${categoryKey}`} asChild>
+    <Link href={`/category/${categoryKey}` as Href} asChild>
       <Pressable
         accessibilityRole="button"
         style={({ pressed }) => [styles.categoryCard, pressed && styles.categoryCardPressed]}>

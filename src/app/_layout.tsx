@@ -18,7 +18,7 @@ export default function RootLayout() {
         }}>
         <Stack.Screen name="(tabs)" />
         <Stack.Screen name="mock-test" />
-        <Stack.Screen name="practice/[category]" />
+        <Stack.Screen name="category/[id]" />
       </Stack>
     </ThemeProvider>
   );

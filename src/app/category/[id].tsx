@@ -7,16 +7,16 @@ import { DashboardColors } from '@/constants/dashboard-theme';
 import { isCategoryKey } from '@/constants/practice-categories';
 import { Spacing } from '@/constants/theme';
 
-export default function PracticeCategoryScreen() {
-  const { category } = useLocalSearchParams<{ category: string }>();
+export default function CategoryPracticeScreen() {
+  const { id } = useLocalSearchParams<{ id: string }>();
   const { t } = useTranslation();
 
-  if (!category || !isCategoryKey(category)) {
+  if (!id || !isCategoryKey(id)) {
     return <Redirect href="/" />;
   }
 
   return (
-    <DarkScreenShell title={t(`categories.${category}`)}>
+    <DarkScreenShell title={t(`categories.${id}`)}>
       <View style={styles.placeholderCard}>
         <Text style={styles.placeholderText}>{t('practicePlaceholder')}</Text>
       </View>
